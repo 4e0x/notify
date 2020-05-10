@@ -1,5 +1,5 @@
 # Notify
-Nice little Notification alerts with a simple animation without writing any HTML code.
+Nice little Notification alerts with a simple animation without writing any HTML code, Dosen't even require Jquery!!.
 
 ## Getting Started
 Download the distribution and include the file in your pages!
