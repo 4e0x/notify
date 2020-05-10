@@ -33,7 +33,7 @@ Download the distribution and include the file in your pages!
 
 ## Example
 ```html
-<script>ntfy.init(),ntfy.ntfy("date","top-center","Appointment Booked!,"You have booked the following on 12/01/2020");</script>
+<script>ntfy.init(),ntfy.ntfy("date","top-left","Appointment Booked!,"You have booked the following on 12/01/2020");</script>
 ```
 ![](https://i.ibb.co/Tv99Gb5/ntfypreview.png)
 
